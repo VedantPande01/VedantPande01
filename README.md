@@ -1,16 +1,75 @@
-## Hi there 👋
+👋 Hey there, I'm Vedant Pande!
 
-<!--
-**VedantPande01/VedantPande01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year Computer Science student, currently diving into the world of programming and development. My goal is to build real-world projects and develop strong problem-solving skills to tackle real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 My Learning Journey
+
+📍 Current Status
+- 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard
+- 🧱 On Lecture 1, exploring the fundamentals of computing and programming
+
+---
+
+🚀 My Learning Roadmap
+
+🧑‍💻 Phase 1: Foundations
+- ✅ Complete CS50x and build strong programming basics (C, memory, logic)
+- ✅ Learn C++ and dive deep into DSA with a structured course
+- ✅ Practice problem-solving on LeetCode and Codeforces
+
+🌐 Phase 2: Web Development
+- Learn Full Stack Web Development
+- Build responsive, interactive websites and apps
+
+🌍 Phase 3: Real-World Development
+- Contribute to Open Source Projects
+- Build real-world applications that solve meaningful problems
+- Participate in coding contests and hackathons
+
+---
+
+🔧 Tools & Technologies (Now & Future)
+
+| Learning Now             | Learning Soon              | Future Goals                |
+|--------------------------|----------------------------|-----------------------------|
+| C, Bash, Git, VS Code    | C++, DSA, GitHub           | React, Node.js, MongoDB     |
+| Markdown, CLI Basics     | LeetCode, Codeforces       | Open Source, DevOps         |
+
+---
+
+🛠️ Projects (Coming Soon)
+
+🚧 This section will grow as I build and share my work.
+
+---
+
+🌱 Goals for This Year
+
+- 💻 Master problem-solving in C++
+- 🏆 Participate in contests on Codeforces and LeetCode
+- 🤝 Contribute to at open source project
+- ✍️ Document my learning journey regularly on GitHub
+
+---
+
+📬 Let’s Connect
+
+- GitHub: VedantPande01 (https://github.com/VedantPande01)
+- LinkedIn: (add when ready)
+- Portfolio: (coming soon)
+
+---
+
+🙏 Acknowledgments
+
+- Harvard's [CS50x](https://cs50.harvard.edu/x) for providing a strong foundation in computer science
+
+---
+
+> "Embrace problem-solving with passion, rather than strictly following your existing routines." — Guy Pistone
+
+---
+
+Thanks for visiting!⭐
