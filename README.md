@@ -56,7 +56,7 @@
 
 📬 Let’s Connect
 
-- GitHub: VedantPande01 (https://github.com/VedantPande01)
+- GitHub: VedantPande01 (https://github.com/VedantPande01/VedantPande01)
 - LinkedIn: (add when ready)
 - Portfolio: (coming soon)
 
@@ -68,7 +68,7 @@
 
 ---
 
-> "Embrace problem-solving with passion, rather than strictly following your existing routines." — Guy Pistone
+"Embrace problem-solving with passion, rather than strictly following your existing routines." — Guy Pistone
 
 ---
 
