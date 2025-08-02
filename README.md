@@ -1,6 +1,6 @@
 👋 Hey there, I'm Vedant Pande!
 
-🎓 I'm a first-year Computer Science student, currently diving into the world of programming and development. My goal is to build real-world projects and develop strong problem-solving skills to tackle real-world problems.
+🎓 I'm a Computer Science student, currently diving into the world of programming and development. My goal is to build real-world projects and develop strong problem-solving skills to tackle real-world problems.
 
 ---
 
@@ -8,7 +8,7 @@
 
 📍 Current Status
 - 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard
-- 🧱 On Lecture 1, exploring the fundamentals of computing and programming
+- 🧱 On Lecture 0: Scratch.
 
 ---
 
@@ -35,7 +35,7 @@
 | Learning Now             | Learning Soon              | Future Goals                |
 |--------------------------|----------------------------|-----------------------------|
 | C, Bash, Git, VS Code    | C++, DSA, GitHub           | React, Node.js, MongoDB     |
-| Markdown, CLI Basics     | LeetCode, Codeforces       | Open Source, DevOps         |
+| Markdown, CLI Basics     | LeetCode, Codeforces       | Open Source, DevOps, Next.js, TypeScript         |
 
 ---
 
