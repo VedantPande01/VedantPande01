@@ -8,7 +8,7 @@
 
 📍 Current Status
 - 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard
-- 🧱 On Lecture 0: Scratch.
+- 🧱 On Lecture 1: C (Week 1).
 
 ---
 
