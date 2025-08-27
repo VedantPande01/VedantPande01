@@ -7,8 +7,8 @@
 🧠 My Learning Journey
 
 📍 Current Status
-- 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard
-- 🧱 On Lecture 1: C (Week 1).
+- 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard and Programming with Scratch by Harward.
+- 🧱 On Lecture 1: C (Week 1) and on lecture 9 (Build from Scratch).
 
 ---
 
