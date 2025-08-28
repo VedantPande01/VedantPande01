@@ -8,7 +8,7 @@
 
 📍 Current Status
 - 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard and Programming with Scratch by Harward.
-- 🧱 On Lecture 1: C (Week 1) and on lecture 9 (Build from Scratch).
+- 🧱 On Lecture 1: C (Week 1).
 
 ---
 
@@ -41,6 +41,15 @@
 
 🛠️ Projects (Coming Soon)
 
+- [CS50 Final Project: [Create a path for the ball]](https://github.com/VedantPande01/cs50-scratch-project)  
+  Developed as part of **CS50’s Introduction to Programming with Scratch**.  
+  A [short description: e.g., “2D interactive game built in Scratch where players make way for the ball while avoiding obstacles”].  
+
+  **Highlights:**
+  - Built with Scratch’s block-based programming  
+  - Includes animations, sound effects, and scoring system  
+  - Designed with user-friendly gameplay mechanics  
+
 🚧 This section will grow as I build and share my work.
 
 ---
@@ -54,6 +63,10 @@
 
 ---
 
+## 🎓 Education & Certifications
+- Completed [CS50’s Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/) – Harvard University (edX)
+---
+
 📬 Let’s Connect
 
 - GitHub: VedantPande01 (https://github.com/VedantPande01/VedantPande01)
@@ -64,7 +77,9 @@
 
 🙏 Acknowledgments
 
-- Harvard's [CS50x](https://cs50.harvard.edu/x) for providing a strong foundation in computer science
+- Harvard's [CS50s](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) for providing a gentle introduction to programming that prepares you for subsequent courses in coding.
+  
+- Harvard's [CS50x](https://cs50.harvard.edu/x) for providing a strong foundation in computer science.
 
 ---
 
