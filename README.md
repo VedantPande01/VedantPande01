@@ -7,7 +7,7 @@
 🧠 My Learning Journey
 
 📍 Current Status
-- 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard and Programming with Scratch by Harward.
+- 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard.
 - 🧱 On Lecture 1: C (Week 1).
 
 ---
@@ -39,7 +39,7 @@
 
 ---
 
-🛠️ Projects (Coming Soon)
+🛠️ Projects ()
 
 - [CS50 Final Project: [Create a path for the ball]](https://github.com/VedantPande01/cs50-scratch-project)  
   Developed as part of **CS50’s Introduction to Programming with Scratch**.  
