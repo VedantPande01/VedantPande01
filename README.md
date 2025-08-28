@@ -77,8 +77,7 @@
 
 🙏 Acknowledgments
 
-- Harvard's [CS50s](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) for providing a gentle introduction to programming that prepares you for subsequent courses in coding.
-  
+- Harvard's [CS50s](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) for providing a gentle introduction to programming that prepares you for subsequent courses in coding. 
 - Harvard's [CS50x](https://cs50.harvard.edu/x) for providing a strong foundation in computer science.
 
 ---
