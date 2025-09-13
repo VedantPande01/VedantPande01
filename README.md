@@ -8,7 +8,7 @@
 
 📍 Current Status
 - 📘 Currently pursuing [CS50x](https://cs50.harvard.edu/x) by Harvard.
-- 🧱 On Lecture 1: C (Week 1).
+- 🧱 On (Week 2) Lecture 2: Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Command-Line Arguments. Cryptography.
 
 ---
 
@@ -34,8 +34,8 @@
 
 | Learning Now             | Learning Soon              | Future Goals                |
 |--------------------------|----------------------------|-----------------------------|
-| C, Bash, Git, VS Code    | C++, DSA, GitHub           | React, Node.js, MongoDB     |
-| Markdown, CLI Basics     | LeetCode, Codeforces       | Open Source, DevOps, Next.js, TypeScript         |
+| C, Bash, Git, Github, | C++, DSA, Python           | React, Node.js, MongoDB     |
+| CLI Basics,    | LeetCode, Codeforces       | Open Source, DevOps, Next.js, TypeScript         |
 
 ---
 
